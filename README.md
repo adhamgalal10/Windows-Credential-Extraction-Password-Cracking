@@ -1,1 +1,2 @@
 # Windows-Credential-Extraction-Password-Cracking
+Conducted local password security auditing on a Windows environment to demonstrate the risks of weak credential policies.Extracted raw NTLM password hashes from the Windows system using PwDump7.  Utilized Ophcrack alongside precomputed rainbow tables (Vista free) to perform successful brute-force password cracking on the extracted hashes.  Demonstrated the critical importance of complex password policies by analyzing how passwords exceeding 14 characters behave securely.  
